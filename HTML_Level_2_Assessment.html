@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1> Course Sign Up Page </h1>
+      <form>
+        <p>Please Note: First Name, Last Name, Password, and Email are required</p>
+
+        <label for="1">First Name: </label>
+        <input id="1" type="text" name="first_name" placeholder="First Name" required>
+
+        <label for="2">Last Name: </label>
+        <input id="2" type="text" name="last_name" placeholder="Last Name" required>
+
+        <p></p>
+
+        <label for="3">Email: </label>
+        <input id="3" type="email" name="email" placeholder="name@email.com" required>
+
+        <label for="4">Password: </label>
+        <input id="4" type="password" name="password" required>
+
+        <p>Are you over the age of 18?</p>
+
+        <label for="5">Yes: </label>
+        <input id="5" type="radio" name="over_18" value="yes">
+        <label for="5">No: </label>
+        <input id="5" type="radio" name="over_18" value="no">
+
+        <p>Do you have a Credit Card or PayPal?</p>
+        <select class="stars" name="stars">
+          <option value="Credit Card">Credit Card</option>
+          <option value="PayPal">PayPal</option>
+        </select>
+        <p></p>
+
+          <input type="submit" name="" value="Submit Feedback">
+      </form>
+  </body>
+</html>
