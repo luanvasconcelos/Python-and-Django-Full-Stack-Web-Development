@@ -1,0 +1,18 @@
+
+h1{font-family: 'Cinzel Decorative', cursive;
+text-align: center;}
+
+table{margin: auto;}
+
+td{padding: 90px;
+  height: 100px;}
+
+#one{background-color: #0D0630; border: 2px solid white;}
+
+#two{background-color: #384E77; border: 2px solid white;}
+
+#three{background-color: #E6F9AF; border: 2px solid white;}
+
+#four{background-color: #8BBEB2; border: 2px solid white;}
+
+#five{background-color: #18314F; border: 2px solid white;}
