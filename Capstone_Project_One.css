@@ -1,0 +1,26 @@
+body{background-color: #001230;
+border: solid orange;
+text-align: center;
+color: white;
+font-family: 'Montserrat';
+border: 60px solid #42ebf4;
+border-top: 0px;
+margin: 0px;
+padding: 15%;
+padding-top: 0px;
+padding-bottom: 0px;}
+
+.h2_1{margin-bottom: 15%;}
+
+.lorem_1{margin-bottom: 10%;}
+
+.h2_2{margin-bottom: 5%;}
+
+input{margin-bottom: 10px;
+font-size: 1.5em;}
+
+.submit{background-color: orange;
+font-family: 'Nanum Myeongjo', serif;
+width: 150px;
+height: 75px;
+border-radius: 25px;}
