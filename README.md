@@ -7,3 +7,4 @@ This is a repo for the Python and Django Full Stack Web Development Bootcamp cou
 * The Capstone Project One asked to create a website for a mock landing start-up, which required a sign up form that when filled would redired the user to a thank you page.
 * The Bootstrap project requested the creation of a page with a link to a different page for a sign up with a grid of images displayed conformingly we rezise the web screen. 
 * The Javascript exercises One and Two demanded to create a simple .js file to use promt and alert to comunicate with end users and display comands on the console.
+* The Javascript Level One Project asked to create a .js file to complement the .html file so it could be sended a "hidden" mensage to the console if a series of correct answers were inputed using prompt.
