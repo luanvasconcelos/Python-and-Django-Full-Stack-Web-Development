@@ -11,3 +11,4 @@ This is a repo for the Python and Django Full Stack Web Development Bootcamp cou
 * The Javascript Level Two Exercise One assessment was to create functions in Javascript using control flow tactics.
 * The Javascript Level Two Exercise Two requested to create a Javascript file so a html page would prompt a dialogue with the end user asking to add, remove or display names to be added or removed into an array and displayed on console.
 * The Javascript Level Two Exercise Three requested the creation of a js file with multiple functions inside an object.
+* The Document Object Model Game Project was to create a web page with a tic tac toe game using css for stylishing and Javascript for DOM functionality. 
