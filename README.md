@@ -9,3 +9,4 @@ This is a repo for the Python and Django Full Stack Web Development Bootcamp cou
 * The Javascript exercises One and Two demanded to create a simple .js file to use promt and alert to comunicate with end users and display comands on the console.
 * The Javascript Level One Project asked to create a .js file to complement the .html file so it could be sended a "hidden" mensage to the console if a series of correct answers were inputed using prompt.
 * The Javascript Level Two Exercise One assessment was to create functions in Javascript using control flow tactics.
+* The Javascript Level Two Exercise Two requested to create a Javascript file so a html page would prompt a dialogue with the end user asking to add, remove or display names to be added or removed into an array and displayed on console.
