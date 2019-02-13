@@ -13,4 +13,5 @@ This is a repo for the Python and Django Full Stack Web Development Bootcamp cou
 * The Javascript Level Two Exercise Three requested the creation of a js file with multiple functions inside an object.
 * The Document Object Model Game Project was to create a web page with a tic tac toe game using css for stylishing and Javascript for DOM functionality.
 * The Front End Project demanded the re-creation of a game in a html web page called Connect Four using using jQuery to control the actions of the user.
-* The Python Level One Exercise One requested the use of strings, ints, floats, booleans, lists, sets and dictionaries to complete tasks.
+* The Python Level One Exercise One requested the use of strings, ints, floats, booleans, lists, sets and dictionaries to complete tasks
+* The Python Level One Exercise Two asked to use functions and control flow (if, while and for loops) to solve problems.
