@@ -16,3 +16,4 @@ This is a repo for the Python and Django Full Stack Web Development Bootcamp cou
 * The Python Level One Exercise One requested the use of strings, ints, floats, booleans, lists, sets and dictionaries to complete tasks
 * The Python Level One Exercise Two asked to use functions and control flow (if, while and for loops) to solve problems.
 * The Python Level One Project Game was to create a web game in Python using functions and inputs by the user.
+* The Python Level Two Project Game demanded the creation of a card game called war using Object Oriented Programming (OOP) to help with the game logic.
