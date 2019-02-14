@@ -15,3 +15,4 @@ This is a repo for the Python and Django Full Stack Web Development Bootcamp cou
 * The Front End Project demanded the re-creation of a game in a html web page called Connect Four using using jQuery to control the actions of the user.
 * The Python Level One Exercise One requested the use of strings, ints, floats, booleans, lists, sets and dictionaries to complete tasks
 * The Python Level One Exercise Two asked to use functions and control flow (if, while and for loops) to solve problems.
+* The Python Level One Project Game was to create a web game in Python using functions and inputs by the user.
