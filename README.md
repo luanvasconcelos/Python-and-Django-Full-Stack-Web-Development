@@ -20,3 +20,4 @@ Note: The Django Projects needed multiple files so the necessary files were adde
 * The Python Level One Project Game was to create a web game in Python using functions and inputs by the user.
 * The Python Level Two Project Game demanded the creation of a card game called war using Object Oriented Programming (OOP) to help with the game logic.
 * The Django Level One Project was to create a new Django project and app so the local virtual environment page would be defined.
+* The Django Level Two Project asked to use the Models-Templates-Views to create a new model and populate the database with fake data to be seen in a domain extension using template tags.
