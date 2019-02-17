@@ -1,6 +1,8 @@
 # Python-and-Django-Full-Stack-Web-Development
 This is a repo for the Python and Django Full Stack Web Development Bootcamp course by Udemy assessments throughout the front end and back end technologies. All the assessments are explained to a better follow through understanding of what the course content explores.
 
+Note: The Django Projects needed multiple files so the necessary files were added into a folder. As GitHub doesn't allow empty folders some comits' description may seem strange.
+
 * The HTML assessments were about recreating the same html text structure.
 * The CSS level 1 assessment was to create a .css file to change the linked html page to a different color text and border styles.
 * The CSS level 2 assessment asked for the creation of a html page which depicted a 5 color pallet with an unusual font size by using CSS to modify fonts, box style and overall images presentation location on the page.
@@ -17,3 +19,4 @@ This is a repo for the Python and Django Full Stack Web Development Bootcamp cou
 * The Python Level One Exercise Two asked to use functions and control flow (if, while and for loops) to solve problems.
 * The Python Level One Project Game was to create a web game in Python using functions and inputs by the user.
 * The Python Level Two Project Game demanded the creation of a card game called war using Object Oriented Programming (OOP) to help with the game logic.
+* The Django Level One Project was to create a new Django project and app so the local virtual environment page would be defined.
